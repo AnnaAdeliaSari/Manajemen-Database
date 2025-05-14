@@ -1,4 +1,5 @@
-# Manajemen-Database
-*Nama  :* Anna Adelia Sari
-*Nim   :* D0222349
-*Kelas :* D
+# Manajemen Database MongoDB
+
+*Nama:* Anna Adelia Sari
+*NIM:* D0222349
+*Kelas:* D2022
